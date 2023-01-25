@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author juned
- *
- */
-module HomeWorkCoreJava {
-}

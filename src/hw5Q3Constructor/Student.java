@@ -19,4 +19,7 @@ public class Student {
 		this.isProgrammer = isProgrammer;
 		System.out.println("Student Name: "+stName+", ID: "+stID+", Sex: "+sex+", Grade: "+grade+" and Java Programmer? Ans: "+isProgrammer);
 	}
+	public void myTest() {
+		
+	}
 }
